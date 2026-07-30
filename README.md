@@ -13,4 +13,8 @@ I am a post-grad researcher specializing in material physics. Throughout my PhD 
 * **Background:** A English/Brazilian post-grad researcher based in the UK.
 
 ---
+### Contact Me
+* [LinkedIn](https://www.linkedin.com/in/nick-cook198)
+
+---
 * Fun Facts: I am interested in 3D printing, Football and D&D in my spare time.
