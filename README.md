@@ -5,12 +5,17 @@ I am a post-grad researcher specializing in material physics. Throughout my PhD 
 ---
 ### Technical Skills
 * **Languages:** Python (Primary), experience in Java and MATLAB.
-* **Python Libraries:** Jupyter, NumPy, SciPy, Pandas, Matplotlib
+* **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib and Jupyter
 
 ---
 ### Languages and Background
 * **Languages:** English & Portuguese (Fluent), French (Experienced).
 * **Background:** A English/Brazilian post-grad researcher based in the UK.
+
+---
+### Key Projects
+**Ferromagnetic Simulation**(tbd)
+**Hysteresis Simulation** (tbd)
 
 ---
 ### Contact Me
